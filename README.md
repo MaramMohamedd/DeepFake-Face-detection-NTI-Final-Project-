@@ -1,6 +1,8 @@
 
 # Deepfake Face Detection
 
+<img width="1875" height="797" alt="Screenshot 2025-08-20 203139" src="https://github.com/user-attachments/assets/7d339486-96c4-4fed-8488-68cfde07a0e9" />
+
 ## Project Overview
 This repository contains the code and resources for a **Deepfake Face Detection** system, developed as a final graduation project for the NTI summer training program. In an era where synthetic media blurs reality, this project aims to develop a robust deep learning solution for accurately discerning real from AI-generated (deepfake) facial images, fostering a more trustworthy digital environment.
 
