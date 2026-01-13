@@ -59,7 +59,8 @@ The model achieved a **90% accuracy** on the test set, demonstrating strong perf
 
 ### 5. Model Uploading 
 as the model size ~ 200 mb so we've uploaded it on hugging face and here is the link if you're interested 
-**model link :** https://huggingface.co/Wahb12111/Deepfake_Image_Classification
+
+**Model link :** [Wahb Mohamed_Hugging Face_Deepfake_image_classification](https://huggingface.co/Wahb12111/Deepfake_Image_Classification)
 
 ## Future Enhancements
 1. Integrate **attention mechanisms** to focus on critical deepfake artifacts.
